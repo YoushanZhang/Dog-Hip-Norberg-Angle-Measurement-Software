@@ -2,7 +2,7 @@
 
 This software aims to analyze the Norberg Angle of dog hip images and is developed based on MATLAB 2022a.
 
-Pleas unzip the Demo.zip and install the "Dog_hip_analysis" in the "Dog_hip_software" folder.
+Please unzip the Demo.zip and install the "Dog_hip_analysis" in the "Dog_hip_software" folder.
 
 To run the software, you need to:
 
@@ -13,9 +13,9 @@ To run the software, you need to:
 
 
 
-"Demo.mp4" is the short video to show how to use the software
+"Demo.mp4" is a short video showing how to use the software
 
-"Dog Hip Norberg Angle Measurement Software.pdf" is a short explaination of all the software.
+"Dog Hip Norberg Angle Measurement Software.pdf" is a short explanation of all the software.
 
 
 
