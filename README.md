@@ -15,7 +15,7 @@ To run the software, you need to:
 
 "Demo.mp4" is a short video showing how to use the software
 
-"Dog Hip Norberg Angle Measurement Software.pdf" is a short explanation of all the software.
+"Dog Hip Norberg Angle Measurement Software.pdf" is a short explanation of the software functions.
 
 
 
