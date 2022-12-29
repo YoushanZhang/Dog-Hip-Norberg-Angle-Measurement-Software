@@ -6,7 +6,7 @@ Pleas unzip the Demo.zip and install the "Dog_hip_analysis" in the "Dog_hip_soft
 
 To run the software, you need to:
 
-1. Install Matlab MCR [R2021a (9.10)](https://www.mathworks.com/products/compiler/mcr/index.html)
+1. Install Matlab MCR [R2022a (9.12)](https://www.mathworks.com/products/compiler/mcr/index.html)
 
 2. Install "Dog_hip_analysis.exe"
 
