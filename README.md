@@ -13,8 +13,9 @@ For Windows user,
 
 
 For Mac user,
-1. Install R2022a (9.12) MCR [here](https://www.mathworks.com/products/compiler/matlab-runtime.html) (Mac version). 
-2. Install Dog_hip_analysis.app.
+1. Unzip Dog_hip_analysis.zip
+2. Install R2022a (9.12) MCR [here](https://www.mathworks.com/products/compiler/matlab-runtime.html) (Mac version). 
+3. Install Dog_hip_analysis.app.
 
 
 
