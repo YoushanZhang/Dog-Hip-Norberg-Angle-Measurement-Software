@@ -4,12 +4,17 @@ This software aims to analyze the Norberg Angle of dog hip images and is develop
 
 Please unzip the Demo.zip and install the "Dog_hip_analysis" in the "Dog_hip_software" folder.
 
-To run the software, you need to:
+To run the software, 
+For Windows user, 
 
 1. Install Matlab MCR [R2022a (9.12)](https://www.mathworks.com/products/compiler/mcr/index.html)
 
 2. Install "Dog_hip_analysis.exe"
 
+
+For Mac user,
+1. Install R2022a (9.12) MCR [here](https://www.mathworks.com/products/compiler/matlab-runtime.html) (Mac version). 
+2. Install Dog_hip_analysis.app.
 
 
 
